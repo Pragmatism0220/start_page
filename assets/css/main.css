@@ -1,5 +1,5 @@
 @import url("font-awesome.min.css");
-@import url("http://fonts.useso.com/css?family=Roboto:100,300,100italic,300italic");
+@import url("fonts.css");
 
 /*
 	Landed by HTML5 UP
@@ -14,7 +14,7 @@
 ::-webkit-scrollbar-thumb{background-color: #e44c65;}
 ::-webkit-scrollbar-thumb:hover{background-color:#3B3B3B}
 ::-webkit-scrollbar-corner{background-color:#535353}
-::-webkit-scrollbar-resizer{background-color:#FF6E00}
+::-webkit-resizer{background-color:#FF6E00}
 @font-face {
   font-family: MyFont;
   src: url("/assets/fonts/font.otf");
